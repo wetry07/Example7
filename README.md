@@ -65,10 +65,6 @@ This application fetches user data from the [JSONPlaceholder API](https://jsonpl
 2.  Open your browser and navigate to `http://localhost:3000`.
 
 ## Project Structure
-content_copy
-download
-Use code with caution.
-Markdown
 
 react-user-list-app/
 ├── node_modules/
